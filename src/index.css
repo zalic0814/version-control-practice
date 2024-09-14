@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles/index.css */
+@media (max-width: 768px) {
+  .login-page {
+    text-align: center;
+    padding: 10px;
+  }
+
+  .homepage .record {
+    padding: 10px;
+    font-size: 14px;
+  }
+}
